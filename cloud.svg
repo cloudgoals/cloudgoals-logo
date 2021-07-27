@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1024mm"
+   height="1024mm"
+   viewBox="0 0 1024 1024"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0 (b51213c273, 2020-08-10)"
+   sodipodi:docname="cloud.svg">
+  <defs
+     id="defs2">
+    <rect
+       x="267.00768"
+       y="357.29572"
+       width="489.85201"
+       height="378.17885"
+       id="rect977" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.12314235"
+     inkscape:cx="1094.5687"
+     inkscape:cy="2622.0674"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:pagecheckerboard="true"
+     showguides="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="957"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="TRACE"
+     style="display:none">
+    <path
+       id="path833"
+       style="fill:none;stroke:#000000;stroke-width:0.354782;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 592.92865,171.60461 A 209.09671,188.52051 0 0 0 417.6205,257.76276 137.51935,123.98672 0 0 0 347.84852,240.61894 137.51935,123.98672 0 0 0 210.32928,364.60567 137.51935,123.98672 0 0 0 215.93824,399.65453 238.44696,210.21654 0 0 0 1.705839,608.78476 238.44696,210.21654 0 0 0 203.08373,816.44508 v 1.11386 h 9.18755 a 238.44696,210.21654 0 0 0 27.8815,1.44239 238.44696,210.21654 0 0 0 27.88151,-1.44239 h 432.90484 a 284.7618,256.73973 0 0 0 32.56698,1.68451 284.7618,256.73973 0 0 0 32.56651,-1.68451 h 13.40434 v -1.68304 a 284.7618,256.73973 0 0 0 238.79114,-253.37227 284.7618,256.73973 0 0 0 -222.92236,-250.6122 209.09671,188.52051 0 0 0 -202.137,-140.28682 209.09671,188.52051 0 0 0 -0.28009,0 z" />
+  </g>
+  <g
+     inkscape:label="Cloud"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <path
+       id="path833-3"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.354782;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 592.92856,173.28765 A 209.09671,188.52051 0 0 0 417.62044,259.4458 137.51935,123.98672 0 0 0 347.84846,242.30198 137.51935,123.98672 0 0 0 210.32922,366.28871 137.51935,123.98672 0 0 0 215.93818,401.33757 238.44696,210.21654 0 0 0 1.70578,610.46779 238.44696,210.21654 0 0 0 203.08367,818.12813 v 1.11385 h 9.18755 a 238.44696,210.21654 0 0 0 27.8815,1.4424 238.44696,210.21654 0 0 0 27.88151,-1.4424 h 432.90483 a 284.7618,256.73973 0 0 0 32.567,1.68452 284.7618,256.73973 0 0 0 32.5665,-1.68452 h 13.4044 v -1.68304 a 284.7618,256.73973 0 0 0 238.79114,-253.37227 284.7618,256.73973 0 0 0 -222.92244,-250.6122 209.09671,188.52051 0 0 0 -202.137,-140.28682 209.09671,188.52051 0 0 0 -0.2801,0 z" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Text"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       id="text975"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.8px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:'Chilanka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect977);display:inline;fill:#000000;fill-opacity:1;stroke:none;"
+       transform="matrix(1.8657302,0,0,1.8657302,-413.71437,-176.38972)"><tspan
+         x="267.00781"
+         y="441.50931"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:90.3111px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">CloudGoals</tspan></tspan></text>
+  </g>
+</svg>
